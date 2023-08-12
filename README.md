@@ -48,5 +48,3 @@ Latency is < 500ms
 ### Implementation
 * Written in Python
 * Uses Requests library for HTTP checks
-* Logging with the logging module
-* Unit tests with pytest
